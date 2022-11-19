@@ -1,0 +1,218 @@
+0: STARFIRE_INCIDENT_ID
+1: INCIDENT_DATETIME
+2: ALARM_BOX_BOROUGH
+3: ALARM_BOX_NUMBER
+4: ALARM_BOX_LOCATION
+5: INCIDENT_BOROUGH
+6: ZIPCODE
+7: POLICEPRECINCT
+8: CITYCOUNCILDISTRICT
+9: COMMUNITYDISTRICT
+10: COMMUNITYSCHOOLDISTRICT
+11: CONGRESSIONALDISTRICT
+12: ALARM_SOURCE_DESCRIPTION_TX
+13: ALARM_LEVEL_INDEX_DESCRIPTION
+14: HIGHEST_ALARM_LEVEL
+15: INCIDENT_CLASSIFICATION
+16: INCIDENT_CLASSIFICATION_GROUP
+17: DISPATCH_RESPONSE_SECONDS_QY
+18: FIRST_ASSIGNMENT_DATETIME
+19: FIRST_ACTIVATION_DATETIME
+20: FIRST_ON_SCENE_DATETIME
+21: INCIDENT_CLOSE_DATETIME
+22: VALID_DISPATCH_RSPNS_TIME_INDC
+23: VALID_INCIDENT_RSPNS_TIME_INDC
+24: INCIDENT_RESPONSE_SECONDS_QY
+25: INCIDENT_TRAVEL_TM_SECONDS_QY
+26: ENGINES_ASSIGNED_QUANTITY
+27: LADDERS_ASSIGNED_QUANTITY
+28: OTHER_UNITS_ASSIGNED_QUANTITY
+
+Total numbers of rows: 8691513
+
+STARFIRE_INCIDENT_ID: 2021301400141570
+INCIDENT_DATETIME: 07/31/2020 11:59:52 PM
+ALARM_BOX_BOROUGH: BROOKLYN
+ALARM_BOX_NUMBER: 140
+ALARM_BOX_LOCATION: CONSELYEA & LEONARD STS
+INCIDENT_BOROUGH: BROOKLYN
+ZIPCODE: 11211
+POLICEPRECINCT: 94
+CITYCOUNCILDISTRICT: 34
+COMMUNITYDISTRICT: 301
+COMMUNITYSCHOOLDISTRICT: 14
+CONGRESSIONALDISTRICT: 12
+ALARM_SOURCE_DESCRIPTION_TX: EMS Link/Medical
+ALARM_LEVEL_INDEX_DESCRIPTION: Initial Alarm
+HIGHEST_ALARM_LEVEL: First Alarm
+INCIDENT_CLASSIFICATION: Medical - Breathing / Ill or Sick
+INCIDENT_CLASSIFICATION_GROUP: Medical Emergencies
+DISPATCH_RESPONSE_SECONDS_QY: 4
+FIRST_ASSIGNMENT_DATETIME: 07/31/2020 11:59:56 PM
+FIRST_ACTIVATION_DATETIME: 08/01/2020 12:00:13 AM
+FIRST_ON_SCENE_DATETIME: 08/01/2020 12:03:55 AM
+INCIDENT_CLOSE_DATETIME: 08/01/2020 12:12:03 AM
+VALID_DISPATCH_RSPNS_TIME_INDC: N
+VALID_INCIDENT_RSPNS_TIME_INDC: Y
+INCIDENT_RESPONSE_SECONDS_QY: 243
+INCIDENT_TRAVEL_TM_SECONDS_QY: 239
+ENGINES_ASSIGNED_QUANTITY: 1
+LADDERS_ASSIGNED_QUANTITY: 0
+OTHER_UNITS_ASSIGNED_QUANTITY: 0
+
+Value set of ALARM_BOX_BOROUGH:
+ * RICHMOND / STATEN ISLAND
+ * BRONX
+ * BROOKLYN
+ * QUEENS
+ * MANHATTAN
+
+Value set of INCIDENT_BOROUGH:
+ * RICHMOND / STATEN ISLAND
+ * BRONX
+ * BROOKLYN
+ * QUEENS
+ * MANHATTAN
+
+Value set of ALARM_SOURCE_DESCRIPTION_TX:
+ * Phone
+ * PD Link/Medical
+ * Private Fire Alarm
+ * EMS Link/Medical
+ * Verbal
+ * ERS No Contact
+ * BARS
+ * ERS
+ * DEFAULT RECORD
+ * 911
+ * 911 Text
+ * UCT/911
+
+Value set of ALARM_LEVEL_INDEX_DESCRIPTION:
+ * Initial Alarm
+ * DEFAULT RECORD
+ * 7-5 (All Hands Alarm)
+ * 10-75 Signal (Request for all hands alarm)
+ * Second Alarm
+ * Fourth Alarm
+ * Third Alarm
+ * 10-76 & 10-77 Signal (Notification Hi-Rise Fire)
+ * Fifth Alarm or Higher
+ * Seventh Alarm
+ * Fifth Alarm
+ * Eighth Alarm
+ * Sixth Alarm
+ * 10-76 Signal (Notification Hi-Rise Fire)
+
+Value set of HIGHEST_ALARM_LEVEL:
+ * First Alarm
+ * Seventh Alarm
+ * All Hands Working
+ * Second Alarm
+ * Fourth Alarm
+ * Third Alarm
+ * Complaint/Still
+ * Fifth Alarm or Higher
+ * Fifth Alarm
+ * Eighth Alarm
+ * Simultaneous Call
+ * Sixth Alarm
+
+Value set of INCIDENT_CLASSIFICATION:
+ * Carbon Monoxide - Code 1 - Investigation
+ * Medical MFA - PD Link
+ * Medical - Assist Civilian
+ * Non-Medical MFA - Phone
+ * Sprinkler System - Working on System
+ * Utility Emergency - Electric
+ * Alarm System - Unwarranted
+ * Non-Medical 10-91 (Unnecessary Alarm)
+ * Demolition Debris or Rubbish Fire
+ * Medical - EMS Link 10-91
+ * Multiple Dwelling 'A' - Other fire
+ * Medical - PD Link 10-91
+ * Odor - Other Smoke
+ * Utility Emergency - Water
+ * Brush Fire
+ * Assist Civilian - Non-Medical
+ * Multiple Dwelling 'A' - Compactor fire
+ * Other Commercial Building Fire
+ * Odor - Other Than Smoke
+ * Non-Medical MFA - ERS No Contact
+ * Medical MFA - EMS Link
+ * Undefined Emergency
+ * Carbon Monoxide - Code 2 - Incident (1-9 ppm)
+ * Non-Medical MFA - Private Fire Alarm
+ * Multiple Dwelling 'A' - Food on the stove fire
+ * Vehicle Accident - Other
+ * Alarm System - Defective
+ * Defective Oil Burner
+ * Sprinkler System - Malfunction
+ * Non-Medical MFA - BARS
+ * Carbon Monoxide - Code 3 - Emergency (over 9 ppm)
+ * Private Dwelling Fire
+ * Automobile Fire
+ * Utility Emergency - Gas
+ * Manhole Fire - Other
+ * Manhole Fire - Seeping Smoke
+ * Utility Emergency - Steam
+ * Other Transportation Fire
+ * Vehicle Accident - With Extrication
+ * Multiple Dwelling 'B' Fire
+ * Transit System - NonStructural
+ * Store Fire
+ * Utility Emergency - Undefined
+ * Non-Medical MFA - ERS No Console Available
+ * Non-Medical MFA - ERS
+ * Manhole Fire - Blown Cover
+ * Carbon Monoxide - Code 4 - No Detector Activation
+ * Abandoned Derelict Vehicle Fire
+ * Hospital Fire
+ * Transit System - Structural
+ * Undefined Nonstructural Fire
+ * Church Fire
+ * Manhole Fire - Extended to Building
+ * Transit System Emergency
+ * Alarm System - Recorded
+ * Construction or Demolition Building Fire
+ * Carbon Monoxide - No Code
+ * Non-Medical MFA - Verbal
+ * Other Public Building Fire
+ * Non-Medical MFA - ERS Timeout
+ * Alarm System - Other
+ * Factory Fire
+ * School Fire
+ * Sprinkler System - Other
+ * Untenanted Building Fire
+ * Theater or TV Studio Fire
+ * Sprinkler System - Activated
+ * Clogged Incinerator
+ * Medical - Breathing / Ill or Sick
+ * Medical - Serious Life Threatening
+ * Medical - No PT Contact EMS is Onscene
+ * Medical - Victim Deceased
+ * Elevator Emergency - Occupied
+ * Alarm System - Testing
+ * Elevator Emergency - Unoccupied
+ * Alarm System - Unnecessary
+ * Maritime Emergency
+ * Remove Civilian - Non-Fire
+ * Downed Tree
+ * Elevator Emergency - Undefined
+ * Maritime Fire
+
+Value set of INCIDENT_CLASSIFICATION_GROUP:
+ * NonMedical Emergencies
+ * Medical MFAs
+ * Medical Emergencies
+ * NonMedical MFAs
+ * NonStructural Fires
+ * Structural Fires
+
+Value set of VALID_DISPATCH_RSPNS_TIME_INDC:
+ * N
+
+Value set of VALID_INCIDENT_RSPNS_TIME_INDC:
+ * Y
+ * N
+
